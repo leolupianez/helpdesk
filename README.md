@@ -2,6 +2,12 @@
   <h3 align="center">HelpDesk</h3>
   <p align="center">
     <br />
+    <a href="https://helpdesk-project.up.railway.app/">View</a>
+    ·
+    <a href="https://github.com/leolupianez/helpdesk/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/leolupianez/helpdesk/pulls">Request Feature</a>
+    <br />
   </p>
   <img src="screenshot.png">
 </div>
