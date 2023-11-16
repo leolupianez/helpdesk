@@ -53,7 +53,7 @@ const TicketForm = () => {
                         <p className='text-sm leading-6 text-gray-900'>Dear {ticketData.name},</p>
                         <p className='text-sm leading-6 text-gray-900'>Thank you for reaching out to us.</p>
                         <p className='text-sm leading-6 text-gray-900 mb-5'>We&apos;re writing to let you know that we&apos;ve received your support ticket, and it is now being processed. Your ticket number is #{ticketData.id}. Please refer to this number in any future correspondence regarding this issue.</p>
-                        <p className='text-sm leading-6 text-gray-900'>If you have any additional information to add or questions in the meantime, please don&apost hesitate to reach out by replying to this email</p>
+                        <p className='text-sm leading-6 text-gray-900'>If you have any additional information to add or questions in the meantime, please don&apos;t hesitate to reach out by replying to this email</p>
                     </div>
                 </div>
             ) : (
