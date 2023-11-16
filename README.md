@@ -38,6 +38,9 @@ npm install
   - NEXT_PUBLIC_SUPABASE_ANON_KEY = ` Your Supabase anon key`
 
 - Set up the database using the schema provided at `/database/schema.sql`.
+- You can access the admin panel using the default admin account:
+    - Email: `admin@example.com`
+    - Password: `qwerty`
 
 ### Run
 Start the development server
